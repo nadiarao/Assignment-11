@@ -1,3 +1,3 @@
 # Assignment-11
- My first my GIT Repository.
+ This is my first GIT Repository.
  Author - Nadia Rao
